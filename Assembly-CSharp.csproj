@@ -49,6 +49,8 @@
      <Compile Include="Assets\Quick Tips\1 Connecting Scripts\EthanCar.cs" />
      <Compile Include="Assets\Quick Tips\1 Connecting Scripts\EthanJump.cs" />
      <Compile Include="Assets\Quick Tips\1 Connecting Scripts\ballDeath.cs" />
+     <Compile Include="Assets\Quick Tips\2 Transform Constraints\CT.cs" />
+     <Compile Include="Assets\Quick Tips\3 Random Rotation\RandomRotation.cs" />
      <Compile Include="Assets\Tested\2 Gameobject Constaints\simpleConstraints.cs" />
      <Compile Include="Assets\Tested\3 Random Rotation\randomRotate.cs" />
      <Compile Include="Assets\Tested\4 Auto Move\constantMove.cs" />
